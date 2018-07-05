@@ -1,6 +1,8 @@
 this script allow you to supervise your temperature sensor
 --
+
 ###what you need
+
 	* python3
 
 ###how  to install ?
